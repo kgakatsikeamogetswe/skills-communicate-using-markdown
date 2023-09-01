@@ -1,5 +1,3 @@
-# KEAMOGETSWE KGAKATSI
-
 <header>
 
 <!--
